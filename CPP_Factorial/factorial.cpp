@@ -33,7 +33,7 @@ long long recursiveFactorial(int n)
   }
   else
   {
-    cout << "Not a Positive Number";
+    cout << "Not a Positive Number ";
     return 0;
   }
 }
